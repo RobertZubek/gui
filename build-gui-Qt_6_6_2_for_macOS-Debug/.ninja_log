@@ -1,0 +1,27 @@
+# ninja log v5
+0	262	1709286272272649124	gui_autogen/timestamp	1cd949464714636f
+0	262	1709286272272649124	gui_autogen/mocs_compilation.cpp	1cd949464714636f
+0	262	1709286272272649124	/Users/robert/Desktop/gui/build-gui-Qt_6_6_2_for_macOS-Debug/gui_autogen/timestamp	1cd949464714636f
+0	262	1709286272272649124	/Users/robert/Desktop/gui/build-gui-Qt_6_6_2_for_macOS-Debug/gui_autogen/mocs_compilation.cpp	1cd949464714636f
+262	1140	1709286273149228394	CMakeFiles/gui.dir/gui_autogen/mocs_compilation.cpp.o	c8cdb82bf51de098
+262	1144	1709286273154013955	CMakeFiles/gui.dir/main.cpp.o	7e5067a1f3f1b401
+263	1200	1709286273212223867	CMakeFiles/gui.dir/mainwindow.cpp.o	31b6c17b4230b120
+1201	1394	1709286273406749852	gui.app/Contents/MacOS/gui	50e6f905854d380b
+4	35	1709286314885159014	gui_autogen/timestamp	1cd949464714636f
+4	35	1709286314885159014	gui_autogen/mocs_compilation.cpp	1cd949464714636f
+4	35	1709286314885159014	/Users/robert/Desktop/gui/build-gui-Qt_6_6_2_for_macOS-Debug/gui_autogen/timestamp	1cd949464714636f
+4	35	1709286314885159014	/Users/robert/Desktop/gui/build-gui-Qt_6_6_2_for_macOS-Debug/gui_autogen/mocs_compilation.cpp	1cd949464714636f
+36	621	1709286315467670464	CMakeFiles/gui.dir/mainwindow.cpp.o	31b6c17b4230b120
+621	712	1709286315559362308	gui.app/Contents/MacOS/gui	50e6f905854d380b
+4	38	1709286417917676174	gui_autogen/timestamp	1cd949464714636f
+4	38	1709286417917676174	gui_autogen/mocs_compilation.cpp	1cd949464714636f
+4	38	1709286417917676174	/Users/robert/Desktop/gui/build-gui-Qt_6_6_2_for_macOS-Debug/gui_autogen/timestamp	1cd949464714636f
+4	38	1709286417917676174	/Users/robert/Desktop/gui/build-gui-Qt_6_6_2_for_macOS-Debug/gui_autogen/mocs_compilation.cpp	1cd949464714636f
+39	521	1709286418397216107	CMakeFiles/gui.dir/mainwindow.cpp.o	31b6c17b4230b120
+521	604	1709286418481201044	gui.app/Contents/MacOS/gui	50e6f905854d380b
+3	33	1709286430606010945	gui_autogen/timestamp	1cd949464714636f
+3	33	1709286430606010945	gui_autogen/mocs_compilation.cpp	1cd949464714636f
+3	33	1709286430606010945	/Users/robert/Desktop/gui/build-gui-Qt_6_6_2_for_macOS-Debug/gui_autogen/timestamp	1cd949464714636f
+3	33	1709286430606010945	/Users/robert/Desktop/gui/build-gui-Qt_6_6_2_for_macOS-Debug/gui_autogen/mocs_compilation.cpp	1cd949464714636f
+34	497	1709286431065353626	CMakeFiles/gui.dir/mainwindow.cpp.o	31b6c17b4230b120
+498	580	1709286431149526271	gui.app/Contents/MacOS/gui	50e6f905854d380b
